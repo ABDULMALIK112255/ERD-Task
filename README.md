@@ -1,4 +1,4 @@
-ask 1: Design-ER-Diagram-for-Company-Database
+Task 1: Design-ER-Diagram-for-Company-Database
 📝 Instruction (Task Description): Please design an Entity-Relationship (ER) diagram based on the following company structure and business rules:
 
 📌 Entities & Attributes:
